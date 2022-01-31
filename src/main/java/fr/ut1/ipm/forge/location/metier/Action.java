@@ -11,6 +11,7 @@ package fr.ut1.ipm.forge.location.metier;
 public abstract class Action {
 
     private String nom;
+    
 
     /**
      * Get the value of nom
